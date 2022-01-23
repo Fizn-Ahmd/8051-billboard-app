@@ -1,6 +1,6 @@
 #include <reg51.h>
 
-#include "header1.h"
+#include "lcd_billboard_app.h"
 
 u8 line_info = 0;
 u8 char_hist_arr = 0;
