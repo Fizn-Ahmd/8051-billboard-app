@@ -19,9 +19,9 @@ That's it, Now restart the board if it's physical one. The code will start execu
 
 **Direction of Use:**
 
-Switch-0 : press to move cursor position.
-Switch-1 : press to show the next character.
-Switch-2 : press to show the previous character.
-Switch-3 : press to have space as a character.
-Switch-4 : press to reset the character/number.
-Switch-5 : press to move the setting to input delay. Here Switch-3 and Switch-4 doesn't work. Press once again the Switch-5 after delay input, now the string that is given as input will start to execute with required delay in between.
+1. Switch-0 : press to move cursor position.
+2. Switch-1 : press to show the next character.
+3. Switch-2 : press to show the previous character.
+4. Switch-3 : press to have space as a character.
+5. Switch-4 : press to reset the character/number.
+6. Switch-5 : press to move the setting to input delay. Here Switch-3 and Switch-4 doesn't work. Press once again the Switch-5 after delay input, now the string that is given as input will start to execute with required delay in between.
